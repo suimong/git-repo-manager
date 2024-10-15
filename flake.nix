@@ -52,6 +52,7 @@
               pkg-config
               rustToolchain
               # deps
+              nushell
               git
               openssl
               openssl.dev
